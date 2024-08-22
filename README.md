@@ -1,4 +1,4 @@
-![1](https://github.com/fpaezf/CS2-server-manager/assets/28062918/a4813ac8-0122-439b-91d7-a6f2a227fe77)
+![1](https://github.com/user-attachments/assets/71981178-29e6-4a2c-840e-6a293a9d6dc3)
 
 # Counter-Strike 2 Server Manager
 A simple but effective Counter-Strike 2 server manager tool made with Visual Studio &amp; .NET Framework
@@ -30,5 +30,6 @@ Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172lgds/m
 - Start managing your server
 
 ## Screenshots
-![1](https://github.com/fpaezf/CS2-server-manager/assets/28062918/acb402e1-df4f-40ad-bcc8-5fe8a3109803)
-![2](https://github.com/fpaezf/CS2-server-manager/assets/28062918/e52de52e-aadf-498a-ad24-dda45ae62cc7)
+![1](https://github.com/user-attachments/assets/d8ce9a22-d473-44cc-ada8-32cb26975178)
+![2](https://github.com/user-attachments/assets/0d0048e4-d43d-4c3b-889f-329924d4cc81)
+![3](https://github.com/user-attachments/assets/1964f433-b1ae-43ea-8db2-ff877662e9ca)
