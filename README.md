@@ -1,10 +1,12 @@
 ![1](https://github.com/user-attachments/assets/71981178-29e6-4a2c-840e-6a293a9d6dc3)
 
 # Counter-Strike 2 Server Manager
-A simple but effective Counter-Strike 2 server manager tool made with Visual Studio &amp; .NET Framework
+A simple but effective Counter-Strike 2 server manager tool made with Visual Studio &amp; .NET Framework.
+
 Uses SteamCMD to install/update your game servers (https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip)
 
 Built with with Visual Studio &amp; .NET Framework 4.7.2.
+
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/> <img alt="NET" src="https://img.shields.io/badge/-Visual%20Basic-blue?style=flat&logo=.net&logoColor=white"/>
 
 Comments and feedback on Reddit: https://www.reddit.com/r/cs2/comments/172lgds/my_cs2_server_installerupdaterlauncher/
