@@ -41,5 +41,6 @@ To check for hanged/crashed processes i'm using **Process.GetProcessById(Server.
 
 ## Other CS2 admin tools
 - **Conter-Strike 2 RCON tool:** https://github.com/fpaezf/Counter-Strike-dedicated-server-admin-tool
+
 - **Conter-Strike 2 RCON tool on Reddit:** https://www.reddit.com/r/cs2/comments/1ev8s5q/counterstrike_dedicated_server_remote_admin_tool/
 
