@@ -6,6 +6,7 @@
 A simple but effective Counter-Strike 2 server manager tool built with with Visual Basic.NET Framework 4.8.
 
 **Uses SteamCMD to install/update your game servers:** https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip
+
 **Comments and feedback on Reddit:** https://www.reddit.com/r/cs2/comments/172lgds/my_cs2_server_installerupdaterlauncher/
 
 ## Features
