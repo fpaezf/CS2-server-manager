@@ -1,3 +1,7 @@
+⚠️⚠️⚠️THIS TOOL IS DEPRECATED, USE THE NEW TOOL⚠️⚠️⚠️
+https://github.com/fpaezf/Game-Server-Admin
+
+
 ![1](https://github.com/user-attachments/assets/71981178-29e6-4a2c-840e-6a293a9d6dc3)
 
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/> <img alt="NET" src="https://img.shields.io/badge/-Visual%20Basic-blue?style=flat&logo=.net&logoColor=white"/>
